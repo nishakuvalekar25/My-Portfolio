@@ -976,7 +976,7 @@ hr {
     .skillsGrid {
         display: flex;
         flex-wrap: wrap;
-        margin: 60px;
+        margin: 40px;
     }
 
     /* Projects */
@@ -989,7 +989,7 @@ hr {
     .project-box img {
         width: 280px;
         border-radius: 12px;
-        box-shadow: rgba(0, 0, 0, 0.549) 0px 4px 12px;
+        box-shadow: rgba(0, 0, 0, 0.274) 0px 4px 12px;
 
     }
 
