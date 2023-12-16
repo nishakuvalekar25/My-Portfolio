@@ -953,16 +953,10 @@ hr {
 
 
 
+   
     /* skill */
 
-    .skillsGrid {
-        display: grid;
-        grid-template-columns: repeat(6, 1fr);
-        gap: 15px;
-        grid-auto-rows: auto;
-        height: auto;
-    }
-
+   
     .skillsGrid img {
         height: 75px;
         width: 75px;
@@ -976,7 +970,10 @@ hr {
     .skillsGrid {
         display: flex;
         flex-wrap: wrap;
-        margin: 40px;
+        margin: 20px;
+        /* margin-left: 15px; */
+        padding-top: 40px;
+        padding-left: 25px;
     }
 
     /* Projects */
